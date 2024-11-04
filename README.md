@@ -13,7 +13,7 @@ This is a MERN stack project designed to facilitate the booking of appointments 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Login Acess](#login)
+- [Login Access](#login)
 - [Contributing](#contributing)
 
 ## Features
